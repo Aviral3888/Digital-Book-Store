@@ -1,6 +1,9 @@
 # Digital-Book-Store
-JavaScript, HTML and CSS. 
+JavaScript, HTML, CSS and Bootstrap. 
 Pure Js used for Logic. Bootstrap 4 Used for designing and CSS also used for some particular designing.
+
+Project Link : https://digital-book-store.netlify.app/             
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0407a99a-7e5b-4d1a-b50b-5b63155ef9cd/deploy-status)](https://app.netlify.com/sites/digital-book-store/deploys) 
 
 OOPs concept is used for storing data in Local Storage.
 
